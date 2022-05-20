@@ -1,6 +1,6 @@
 ## Sequential Bayesian Inference for Uncertain Nonlinear Dynamic Systems
 
-A Sequential Bayesian Inference tutorial for the solution of **state**, **state-parameter** and **input-state-parameter** estimation problems in uncertain nonlinear dynamic systems on the basis of sparse measurements.
+A Sequential Bayesian Inference tutorial for the solution of state, state-parameter and input-state-parameter estimation problems in uncertain nonlinear dynamic systems on the basis of sparse measurements. 
 
 ### Algorithms
 
@@ -22,7 +22,7 @@ git clone https://github.com/ETH-WindMil/JSD-SBI ~/JSD-SBI
 
 ## Cite as
 
-Konstantinos E. Tatsis, Vasilis K. Dertimanis & Eleni N. Chatzi, «Sequential Bayesian Inference for Uncertain Nonlinear Dynamic Systems: A Tutorial.», Journal of Structural Dynamics, Issue 1, URL : [https://popups.uliege.be/2684-6500/index.php?id=107.](https://popups.uliege.be/2684-6500/index.php?id=107)
+Konstantinos E. Tatsis, Vasilis K. Dertimanis & Eleni N. Chatzi, «Sequential Bayesian Inference for Uncertain Nonlinear Dynamic Systems: A Tutorial.», Journal of Structural Dynamics, Issue 1 [https://popups.uliege.be/2684-6500/index.php?id=107.](https://popups.uliege.be/2684-6500/index.php?id=107)
 
 ## Found a Bug?
 
